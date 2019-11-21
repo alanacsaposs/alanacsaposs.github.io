@@ -1,2 +1,6 @@
-# alanacsaposs.github.io
-Personal Website Project
+# Personal Website Project
+
+To include:
+Resume
+Class Project Work
+Personal Project Work
